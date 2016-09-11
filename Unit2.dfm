@@ -1,0 +1,21 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'Form2'
+  ClientHeight = 709
+  ClientWidth = 834
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  GlassFrame.Enabled = True
+  GlassFrame.SheetOfGlass = True
+  OldCreateOrder = False
+  WindowState = wsMaximized
+  OnClick = FormClick
+  PixelsPerInch = 96
+  TextHeight = 13
+end

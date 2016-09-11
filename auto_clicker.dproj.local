@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.596,=E:\my_documents\delphi\auto_clicker\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,E:\my_documents\delphi\auto_clicker\Unit4.pas=E:\my_documents\delphi\auto_clicker\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=E:\my_documents\delphi\auto_clicker\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.273,=E:\my_documents\delphi\auto_clicker\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,E:\my_documents\delphi\auto_clicker\Unit4.dfm=E:\my_documents\delphi\auto_clicker\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,E:\my_documents\delphi\auto_clicker\auto_clicker.dproj=E:\my_documents\delphi\auto_clicker\auto_clicker.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,C:\Users\hannes\Documents\Embarcadero\Studio\Projekte\Project1.dproj=C:\Users\hannes\Documents\Embarcadero\Studio\Projekte\auto_clicker.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,=C:\Users\hannes\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.824,E:\my_documents\delphi\auto_clicker\Unit3.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,=E:\my_documents\delphi\auto_clicker\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,C:\Users\hannes\Documents\Embarcadero\Studio\Projekte\auto_clicker.dproj=E:\my_documents\delphi\auto_clicker\auto_clicker.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,E:\my_documents\delphi\auto_clicker\Unit3.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.356,C:\Users\hannes\Documents\Embarcadero\Studio\Projekte\Unit1.pas=E:\my_documents\delphi\auto_clicker\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.356,C:\Users\hannes\Documents\Embarcadero\Studio\Projekte\Unit1.dfm=E:\my_documents\delphi\auto_clicker\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,=E:\my_documents\delphi\auto_clicker\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
